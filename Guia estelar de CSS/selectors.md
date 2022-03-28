@@ -1,4 +1,4 @@
-# Selectors 
+# Selectors
 
 Conecta um elemento HTML com o CSS
 
